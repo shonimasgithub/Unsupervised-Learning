@@ -1,4 +1,4 @@
-# Formative-Assessment-Unsupervised-Learning
+# Unsupervised-Learning
 Objective:
 The objective of this assessment is to evaluate your understanding and ability to apply clustering techniques to a real-world dataset.
 
